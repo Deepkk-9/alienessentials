@@ -71,7 +71,6 @@ const Tshirts = () => {
                             </div>
                         </Link>
                     </div>
-
                 </div>
             </div>
         </section >
